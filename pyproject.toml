@@ -1,0 +1,10 @@
+[project]
+name = "santranslit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "indic-transliteration==2.3.76",
+    "python-docx==1.2.0",
+]
