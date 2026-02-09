@@ -1,4 +1,4 @@
-# santranslit
+# sansliterate
 
 Transliterate Sanskrit (Devanagari) text inside Microsoft Word `.docx` documents into Tamil script while preserving original formatting and non-Sanskrit content.
 
